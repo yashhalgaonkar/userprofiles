@@ -1,4 +1,5 @@
-[
+{
+  "blogs" : [
   {
     "blogId": "blgid-1",
     "title": "Happiness or Happyness",
@@ -121,3 +122,4 @@
     "description": "The only way out is inwards."
   }
 ]
+}
