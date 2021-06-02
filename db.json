@@ -1,6 +1,5 @@
 {
-  
-  "yash.halgaonkar": {
+  "users":[{
     "fname": "Yash",
     "lname": "Halgaonkar",
     "username": "yash.halgaonkar",
@@ -14,7 +13,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-  "aditya.giradkar": {
+   {
     "fname": "Aditya",
     "lname": "Giradkar",
     "username": "aditya.giradkar",
@@ -28,7 +27,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-    "loren.ipsum": {
+  {
     "fname": "Shivam",
     "lname": "Itankar",
     "username": "loren.ipsum",
@@ -42,7 +41,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-    "mansi_jadhav": {
+  {
     "fname": "Mansi",
     "lname": "Jadhav",
     "username": "mansi_jadhav",
@@ -56,7 +55,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-    "patil.sunita.someoddnumber": {
+  {
     "fname": "Sunita",
     "lname": "Patil",
     "username": "patil.sunita.someoddnumber",
@@ -70,7 +69,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-  "harshali.krishna": {
+   {
     "fname": "Harshali",
     "lname": "Krishna",
     "username": "harshali.krishna",
@@ -84,7 +83,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-  "sexysanks": {
+   {
     "fname": "Sanket",
     "lname": "Supekar",
     "username": "sexysanks",
@@ -98,7 +97,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-    "mangu_boi": {
+   {
     "fname": "Mangesh",
     "lname": "Dhondre",
     "username": "mangu_boi",
@@ -112,7 +111,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-    "one_who_should_not_be_named": {
+  {
     "fname": "Akankasha",
     "lname": "Kasar",
     "username": "one_who_should_not_be_named",
@@ -126,7 +125,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-      "karanveer_or_somthing": {
+  {
     "fname": "Hardik",
     "lname": "Bhatti",
     "username": "karanveer_or_somthing",
@@ -140,7 +139,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-        "aye_hc": {
+   {
     "fname": "Harshal",
     "lname": "Chavan",
     "username": "aye_hc",
@@ -154,7 +153,7 @@
     "numWishList": 27,
     "isFollowing": true
   },
-    "truthlogy": {
+  {
     "fname": "Abhinay",
     "lname": "Talkhedkar",
     "username": "truthlogy",
@@ -168,4 +167,5 @@
     "numWishList": 27,
     "isFollowing": true
   }
+  ] 
 }
